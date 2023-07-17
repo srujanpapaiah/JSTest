@@ -14,3 +14,4 @@ function ascendingOrder(arr) {
 }
 
 console.log(ascendingOrder([2, 5, 6, 9, 10, 77, 45, 23]));
+//

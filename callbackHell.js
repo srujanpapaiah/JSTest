@@ -1,5 +1,5 @@
 // Call back hell is nothing but calling one function from another function and
-// that chain continues until all the function have been called .
+// that chain continues until all the function have been called
 
 function firstFun() {
   console.log("Second Fun");

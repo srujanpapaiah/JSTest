@@ -1,6 +1,6 @@
 // We can use try/catch and throw new Error
 // functions of javascript & expressto address the error
-// handling
+// handling.
 
 function funOne() {
   try {
